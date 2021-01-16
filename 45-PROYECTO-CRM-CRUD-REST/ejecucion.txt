@@ -1,0 +1,4 @@
+para ejecutar esto debo instalra mediante npm el json-serve. 
+
+1- sudo npm i -g json-server (instalar)
+2- json-server db.json -p 4000 (ejecutar con npm)

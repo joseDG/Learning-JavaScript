@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose Luis Diaz",
+      "email": "admin@admin.com",
+      "telefono": "0652321456",
+      "empresa": "Byte Shop",
+      "id": 27
+    }
+  ]
+}
