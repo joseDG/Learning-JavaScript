@@ -1,0 +1,4 @@
+Instalacion de cypress
+1. npm init 
+2. npm i --save-dev cypress 
+3. para abrir se pone (npx cypress open)
