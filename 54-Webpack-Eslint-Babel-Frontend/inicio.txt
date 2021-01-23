@@ -1,0 +1,11 @@
+1. npm init 
+2. npm i --save-dev @babel/cli @babel/core @babel/preset-env 
+3. npm i --save-dev webpack webpack-cli 
+4. crear archivo webpack.config.js 
+5. correr webpack npm run webpack
+6. npm i --save-dev webpack-dev-server 
+7. correr el servidor => npm run dev 
+8. eslint => npm i --save-dev eslint 
+9. creo archivo => npx eslint --init 
+10. correr => npx eslint prueba.js 
+11. npm i --save-dev eslint-loader 
