@@ -1,0 +1,4 @@
+1. npx create-react-app prestamos 
+2. ingreso ala carpeta del proeycto
+3. corro con npm start 
+4. 
